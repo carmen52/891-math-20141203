@@ -21,7 +21,7 @@ double ans = 0;
 
 while (x<=y) 
 {
-	 ans = 1/(Math.sqrt(x)); 
+	 ans = ans + 1/(Math.sqrt(x)); 
 	 x++; 
 
 }
